@@ -5,4 +5,5 @@ obj/
 *.user
 *.suo
 appsettings.Development.local.json
+appsettings.Development.json
 " > .gitignore
